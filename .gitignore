@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+instance/
+
+# Node
+node_modules/
+build/
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# BD locale
+*.db
+*.sqlite
